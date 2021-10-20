@@ -3,15 +3,15 @@ quantum-walk
 
 for learning quantum walk
 
-##Programs
+## Programs
 - RandomWalk.py  
   A python program to simulate claasical random walks on a line.
 
-##Abbreviations
+## Abbreviations
 - DTQW: discrete-time quantum walks
 - CTQW: continuous-time quantum walks
 
-##References
+## References
 - DTQW: 
   1. Aharonov, Y.; Davidovich, L. & Zagury, N. *Quantum random walks* Phys. Rev. A, American Physical Society, 1993, **48**, 1687-1690
   2. Meyer, D. *From quantum cellular automata to quantum lattice gases* Journal of Statistical Physics, Kluwer Academic Publishers-Plenum Publishers, 1996, **85**, 551-574
